@@ -1,0 +1,31 @@
+
+#123 {
+    color: rgb(239, 13, 13);
+}
+
+.my-class {
+    color: red;
+}
+img[src] {
+    color: red;
+}
+
+a:hover {
+    color: red;
+}
+
+html {
+    /* px 表示“像素（pixels）”: 基础字号为 10 像素 */
+    font-size: 30px;
+    /* Google fonts 输出的 CSS */
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    width: 600px;
+}
+  
